@@ -1,0 +1,4 @@
+name,tags,time,time_iso,application_id,device_eui,device_id,device_name,device_tags,device_type_id,device_type_name,orig_value,value,value_type_name,variable
+number,,1710791749000000000,2024-03-18T19:55:49.000Z,244,0080E115004E4D2B,13373,2309RMI0613,|niota-created|,288,Nivus RMI Starkregenintensitätssystem,0,0,Number,rain
+number,,1714487952000000000,2024-04-30T14:39:12.000Z,244,0080E115004E4D2B,13373,2309RMI0613,|niota-created|,288,Nivus RMI Starkregenintensitätssystem,2,2,Number,rain
+number,,1714524521000000000,2024-05-01T00:48:41.000Z,244,0080E115004E4D2B,13373,2309RMI0613,|niota-created|,288,Nivus RMI Starkregenintensitätssystem,2,2,Number,rain
